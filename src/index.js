@@ -1,8 +1,8 @@
 import React from 'react';
-import { Text } from 'react-native';
+import Routes from './routes';
 
 // import { Container } from './styles';
 
 export default function Index() {
-  return <Text>Teste</Text>;
+  return <Routes />;
 }
