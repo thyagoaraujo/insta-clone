@@ -1,5 +1,5 @@
 # InstaClone
-:picture: Clone Instagram with React native + expo
+:camera: Clone Instagram with React native + expo
 
 ### Demo
 
